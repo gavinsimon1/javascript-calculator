@@ -31,8 +31,11 @@ function _defineProperty(obj, key, value) {if (key in obj) {Object.definePropert
 
         if (value.indexOf('.') > 0) {
           let decimal = '.';
-          console.log(value);
+          //console.log(value);
+          //console.log(display);
           //value.slice(1,1)  
+          //const result = words.filter(word => word.length > 6);
+          //value.filter(decimal => decimal.length < 1)
 
 
 
